@@ -1,0 +1,10 @@
+{
+  "name": "projectos-root",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo use workspace root build",
+    "lint": "echo use workspace root lint",
+    "test": "echo use workspace root test"
+  }
+}

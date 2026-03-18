@@ -1,0 +1,9 @@
+{
+  "agents": [
+    { "id": "ceo", "name": "CEO Agent", "responsibility": "Final recommendations, prioritization, executive summary" },
+    { "id": "strategy", "name": "Strategy Agent", "responsibility": "Market analysis, positioning, audience, competitor synthesis" },
+    { "id": "content", "name": "Content Agent", "responsibility": "Scripts, ads, social posts, response templates" },
+    { "id": "crm", "name": "CRM Agent", "responsibility": "Lead prioritization, inbox routing, follow-up guidance" },
+    { "id": "ops", "name": "Ops Agent", "responsibility": "Task scheduling, reminders, daily operations summary" }
+  ]
+}

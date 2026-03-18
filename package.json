@@ -1,0 +1,11 @@
+{
+  "name": "projectos-monorepo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "lint": "node scripts/lint.mjs",
+    "test": "node --test projectos/tests/*.test.mjs"
+  }
+}

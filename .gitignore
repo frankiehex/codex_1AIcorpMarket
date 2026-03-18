@@ -1,0 +1,8 @@
+node_modules
+.pnpm-store
+.next
+dist
+coverage
+.env
+projectos/data/*.json
+!projectos/data/.gitkeep
